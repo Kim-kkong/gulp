@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    background: url("https://images.unsplash.com/photo-1666304864615-06fef677c187?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80") no-repeat center center;
+    font-family: "Nanum Pen Script", cursive;
+    color: skyblue;
+    font-size: 30px;
+}
+
+header {
+    background-color: gray;
+}
+header h1 {
+    font-size: 20px;
+    background-color: yellow;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc2V0LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7SUFDSTtJQUNBO0lBQ0E7SUFDQTtJQUNBO0lBQ0E7SUFDQTs7O0FBS0o7SUFDSTs7QUFDQTtJQUNJO0lBQ0EiLCJmaWxlIjoicmVzZXQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGNoYXJzZXQgJ3V0Zi04JztcclxuXHJcbmh0bWwsIGJvZHkge1xyXG4gICAgbWFyZ2luOiAwO1xyXG4gICAgcGFkZGluZzogMDtcclxuICAgIG1heC13aWR0aDogMTIwMHB4O1xyXG4gICAgYmFja2dyb3VuZDogdXJsKCdodHRwczovL2ltYWdlcy51bnNwbGFzaC5jb20vcGhvdG8tMTY2NjMwNDg2NDYxNS0wNmZlZjY3N2MxODc/aXhsaWI9cmItNC4wLjMmaXhpZD1Nbnd4TWpBM2ZEQjhNSHh3YUc5MGJ5MXdZV2RsZkh4OGZHVnVmREI4Zkh4OCZhdXRvPWZvcm1hdCZmaXQ9Y3JvcCZ3PTE5NzQmcT04MCcpIG5vLXJlcGVhdCBjZW50ZXIgY2VudGVyOyAgICBcclxuICAgIGZvbnQtZmFtaWx5OiAnTmFudW0gUGVuIFNjcmlwdCcsIGN1cnNpdmU7XHJcbiAgICBjb2xvcjogc2t5Ymx1ZTtcclxuICAgIGZvbnQtc2l6ZTogMzBweDtcclxuXHJcbn1cclxuXHJcblxyXG5oZWFkZXIge1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogZ3JheTtcclxuICAgIGgxIHtcclxuICAgICAgICBmb250LXNpemU6IDIwcHg7XHJcbiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93O1xyXG4gICAgfVxyXG59Il19 */
