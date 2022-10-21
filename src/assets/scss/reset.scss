@@ -1,0 +1,21 @@
+@charset 'utf-8';
+
+html, body {
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    background: url('https://images.unsplash.com/photo-1666304864615-06fef677c187?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80') no-repeat center center;    
+    font-family: 'Nanum Pen Script', cursive;
+    color: skyblue;
+    font-size: 30px;
+
+}
+
+
+header {
+    background-color: gray;
+    h1 {
+        font-size: 20px;
+        background-color: yellow;
+    }
+}
